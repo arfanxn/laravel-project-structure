@@ -1,6 +1,4 @@
-# Notefan (Golang/Backend)
-
-Laracel Project Stucture
+# Laravel Project Stucture
 
 ## Installation
 
@@ -18,6 +16,6 @@ git clone git@github.com:arfanxn/laravel-project-structure.git
 
 ## License
 
-MIT && NOTEFAN
+MIT
 
 **Open Source**
